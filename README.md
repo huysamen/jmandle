@@ -22,7 +22,7 @@ The following features are currently available:
     * Optional usage of only 16 shades
     * Optional removing of background noise
   * Cropping of white borders
-  * Splitting of lanscape images
+  * Splitting of landscape images
     * Left to right or right to left
   * Scaling of images
     * Kindle 2, 3, 4, 5 - Kindle DX - Kindle Paperwhite
